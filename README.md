@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AvinashAbhi1998
 - 👀 I’m interested in as a developer in IT 
 - 🌱 I’m currently learning Full stack python
-- 💞️ I’m looking to collaborate on frontend projects 
+- 💞️ I’m looking to collaborate with Generative AI
 - 📫 How to reach me +91 9550230398 & avinashgollapudi1998@gmail.com
 
 <!---
